@@ -7,38 +7,46 @@
 <a id="english-version"></a>
 ## 🌎 English Version
 
-I'm a 21-year-old developer with a strong focus on **Backend, Security, and DevOps (DevSecOps)**. Currently, I work in IT - Business, where I blend technical development with functional business processes. My main stack is **Java**, and I'm currently looking forward to learning **Kotlin**.
+I'm a 21-year-old developer interested in **Backend, Security, and DevOps (DevSecOps)**. Currently, I work in IT - Business, where I combine technical development with business processes and enterprise systems. My main development stack is **Java**, with a focus on **Spring Boot**.
 
 ### 👨‍💻 About Me
-* 💼 I work bridging the gap between business needs and IT, developing solutions and handling functional SAP modules.
-* 🚀 I'm currently diving deeper into **Java & Spring Boot**, building robust backend applications and APIs, and planning to expand my skills to **Kotlin**.
+
+* 💼 I work bridging the gap between business needs and IT, developing solutions and working with enterprise systems and SAP.
+* 🚀 I'm deepening my knowledge of **Java and Spring Boot**, building backend applications and APIs, while expanding my skills in **Linux, Docker, Git, and networking**.
+* 🔐 I'm particularly interested in **Information Security, application security, and DevSecOps**, with a focus on understanding how systems can be analyzed, secured, and improved.
 * 🔧 My daily driver for development is **Debian Linux**.
 
 ### 🛠️ Tech Stack
-* **Languages:** Java (Main Stack), Python, ABAP, Kotlin (Learning)
-* **Frameworks & Libs:** Spring Boot
+
+* **Languages:** Java (Main Stack), Python, ABAP
+* **Frameworks & Libraries:** Spring Boot
 * **Databases:** PostgreSQL, SQL Server
+* **Development & Infrastructure:** Git, Docker, Linux
 * **Enterprise / ERP:** SAP (Functional & ABAP)
-* **Interests:** DevSecOps, Information Security, Networks
+* **Interests:** Backend, DevSecOps, Information Security, Networks
 
 ---
 
 <a id="versão-em-português"></a>
 ## 🇧🇷 Versão em Português
 
-Tenho 21 anos e sou um desenvolvedor com grande interesse nas áreas de **Backend, Segurança e DevOps (DevSecOps)**. Atualmente, trabalho com TI voltada para Negócios, unindo desenvolvimento técnico e processos funcionais. Minha stack principal é **Java**, e tenho muito interesse em aprender **Kotlin**.
+Tenho 21 anos e sou um desenvolvedor interessado nas áreas de **Backend, Segurança e DevOps (DevSecOps)**. Atualmente, trabalho com TI voltada para Negócios, unindo desenvolvimento técnico, processos de negócio e sistemas corporativos. Minha principal stack de desenvolvimento é **Java**, com foco em **Spring Boot**.
 
 ### 👨‍💻 Sobre Mim
-* 💼 Meu trabalho envolve criar a ponte entre as necessidades de negócio e a tecnologia, desenvolvendo soluções e atuando também na parte funcional do SAP.
-* 🚀 Estou focando e aprofundando meus conhecimentos em **Java e Spring Boot**, criando aplicações e APIs, e com planos para iniciar meus estudos em **Kotlin**.
+
+* 💼 Meu trabalho envolve criar a ponte entre as necessidades de negócio e a tecnologia, desenvolvendo soluções e atuando com sistemas corporativos e SAP.
+* 🚀 Estou aprofundando meus conhecimentos em **Java e Spring Boot**, criando aplicações e APIs backend, enquanto amplio meus conhecimentos em **Linux, Docker, Git e redes**.
+* 🔐 Tenho especial interesse em **Segurança da Informação, segurança de aplicações e DevSecOps**, buscando compreender como sistemas podem ser analisados, protegidos e aprimorados.
 * 🔧 Meu ambiente de desenvolvimento principal é o **Debian Linux**.
 
 ### 🛠️ Tecnologias e Ferramentas
-* **Linguagens:** Java (Stack Principal), Python, ABAP, Kotlin (Aprendendo)
+
+* **Linguagens:** Java (Stack Principal), Python, ABAP
 * **Frameworks:** Spring Boot
 * **Banco de Dados:** PostgreSQL, SQL Server
+* **Desenvolvimento e Infraestrutura:** Git, Docker, Linux
 * **Corporativo / ERP:** SAP (Funcional e ABAP)
-* **Interesses:** DevSecOps, Segurança da Informação, Redes
+* **Interesses:** Backend, DevSecOps, Segurança da Informação, Redes
 
 ---
 
